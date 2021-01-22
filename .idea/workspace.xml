@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f21c85c8-11ec-4282-9fa0-dca43ea2a233" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestForceTransfer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestName.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestTypeTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/Test1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/Test1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestCharType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestCharType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestCharType2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestCharType2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestDataType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestDataType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestInput.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestInput.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestSpeciaType.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestSpecialType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestSpecialType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestVar.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter1/TestVar.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestArithmetic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestArithmetic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestStringTransfer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestStringTransfer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestValueTransfer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter2/TestValueTransfer.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://scala-decompiled/Array.decompiled.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\develop\Maven\LocalRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../develop/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\develop\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1erY6fcSqDaFCLnvrMUatvidjrT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../develop/scala-2.12.11/lib/scala-2.12.11-source" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestArithmetic">
+    <configuration name="TestArithmetic" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter2.TestArithmetic" />
+      <module name="scala0421" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpecialType" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter1.TestSpecialType" />
+      <module name="scala0421" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter1.TestTypeTransfer" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStringTransfer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter2.TestStringTransfer" />
+      <module name="scala0421" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestType" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter2.TestType" />
+      <module name="scala0421" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter1.TestTypeConversion" />
+      <module name="scala0421" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter1.TestTypeTransfer" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestArithmetic" />
+        <item itemvalue="Application.TestType" />
+        <item itemvalue="Application.TestStringTransfer" />
+        <item itemvalue="Application.TestTypeConversion" />
+        <item itemvalue="Application.TestSpecialType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21c85c8-11ec-4282-9fa0-dca43ea2a233" name="Default Changelist" comment="" />
+      <created>1595081005107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595081005107</updated>
+      <workItem from="1595081007977" duration="416000" />
+      <workItem from="1595081445657" duration="1455000" />
+      <workItem from="1595167877599" duration="2530000" />
+      <workItem from="1595210881098" duration="8590000" />
+      <workItem from="1595290343663" duration="4778000" />
+      <workItem from="1595311796854" duration="8462000" />
+      <workItem from="1595378184727" duration="6827000" />
+      <workItem from="1595405110976" duration="12450000" />
+      <workItem from="1595494387805" duration="924000" />
+      <workItem from="1595597325197" duration="9465000" />
+      <workItem from="1595669901761" duration="599000" />
+      <workItem from="1595729396226" duration="3685000" />
+      <workItem from="1595807561514" duration="9988000" />
+      <workItem from="1595895752756" duration="4478000" />
+      <workItem from="1595915800000" duration="30439000" />
+      <workItem from="1596094892155" duration="2282000" />
+      <workItem from="1596165637277" duration="73000" />
+      <workItem from="1597240934356" duration="371000" />
+      <workItem from="1599480786392" duration="61000" />
+      <workItem from="1599489530700" duration="128000" />
+      <workItem from="1599489904430" duration="2166000" />
+      <workItem from="1599493841989" duration="491000" />
+      <workItem from="1599553971275" duration="97000" />
+      <workItem from="1601207565778" duration="1170000" />
+      <workItem from="1611283994095" duration="530000" />
+      <workItem from="1611284587540" duration="13441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="198" key="#Inspections" timestamp="1611300124685">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1334" y="198" key="#Inspections/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611300124685" />
+    <state x="-1217" y="434" width="513" height="174" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1611284761113">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1217" y="434" width="513" height="174" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611284761113" />
+    <state x="-1009" y="138" width="760" height="694" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611284408864">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1009" y="138" width="760" height="694" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611284408864" />
+    <state x="-1183" y="389" key="DetectedRootsChooserDialog" timestamp="1611289302209">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1183" y="389" key="DetectedRootsChooserDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611289302209" />
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1611289298832">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611289298832" />
+    <state x="-1090" y="417" width="259" height="281" key="Github.ShareDialog" timestamp="1611285097970">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1090" y="417" width="259" height="281" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611285097970" />
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1611302672839">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611302672839" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1611302672839">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611302672839" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1611302672839">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611302672839" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1611302672839">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611302672839" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1611285748437">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611285748437" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1611300779857">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611300779857" />
+  </component>
+</project>
