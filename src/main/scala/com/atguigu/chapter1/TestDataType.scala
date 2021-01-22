@@ -2,12 +2,16 @@ package com.atguigu.chapter1
 
 object TestDataType {
   def main(args: Array[String]): Unit = {
+
+    // 正确
     var n1: Byte = 127
     var n2: Byte = -128
 
+    // 错误
     //    var n3:Byte = 128
     //    var n4:Byte = -129
 
+    // Scala的整型，默认为Int型，声明Long型，然后加”i“ 或者 ”L“
     var n5 = 10
     println(n5)
 
@@ -20,14 +24,15 @@ object TestDataType {
     println(n8)
 
 
+    // null可以赋值给任意引用类型（AnyRef），但是不能赋值给值类型（AnyVal）
     var God = new God()
     God = null
 
-    //var n1 : Int = null //错误
-    //println("n1:" + n1)
+    //    var n1: Int = null //错误
+    //    println("n1:" + n1)
   }
-  class God{
 
+  class God {
   }
 
 }

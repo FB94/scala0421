@@ -4,10 +4,7 @@ object TestVar {
   def main(args: Array[String]): Unit = {
     var age = 22
     age = 29
-
-    //age = "hh" 报错
-
-    //var name
+    //    age = "hh"  //报错
 
     var n1 = 1 //可变
     n1 = 2
@@ -22,9 +19,10 @@ object TestVar {
 
     val p2 = new Person()
     p2.name = "valp2"
-    //p2 = null 报错
+    //    p2 = null //报错
   }
-class Person{
-  var name : String = "who"
-}
+
+  class Person {
+    var name: String = "who"
+  }
 }

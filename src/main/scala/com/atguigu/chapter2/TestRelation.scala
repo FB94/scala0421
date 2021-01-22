@@ -8,6 +8,17 @@ object TestRelation {
     println(s1.eq(s2))
 
 
-  }
+    // 测试：>、>=、<=、<、==、!=
 
+    ​ var a: Int = 2
+    ​ var b: Int = 1
+
+    ​ println(a > b) // true
+    ​ println(a >= b) // true
+    ​ println(a <= b) // false
+    ​ println(a < b) // false
+    ​ println("a==b" + (a == b)) // false
+    ​ println(a != b) // true
+
+  }
 }

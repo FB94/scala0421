@@ -9,11 +9,8 @@ object Test1 {
     println("多行")
      */
     //文档注释
-
     /**
      * println("文档注释")
      */
-
   }
-
 }
