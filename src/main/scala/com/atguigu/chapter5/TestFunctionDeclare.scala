@@ -25,6 +25,7 @@ object TestFunctionDeclare {
       return s+"4.有参，有返回值"
     }
     println(t4("hello"))
+
     //5.多参，无返回值
     def t5(name:String,age:Int):Unit={
       println(s"$name,$age")
