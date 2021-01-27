@@ -1,5 +1,6 @@
 package com.atguigu.chapter6
 
+//方法
 class Person04 {
   def sum(n1: Int, n2: Int): Int = {
     n1 + n2

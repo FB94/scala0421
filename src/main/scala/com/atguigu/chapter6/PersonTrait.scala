@@ -25,6 +25,11 @@ class Teacher extends PersonTrait with java.io.Serializable {
     println("say")
   }
 
+
+  override def eat(): Unit = {
+    println("eat")
+  }
+
   override var age: Int = _
 }
 
@@ -33,6 +38,17 @@ object TestTrait {
     val teacher = new Teacher
     teacher.say()
     teacher.eat()
+
+    //    (4) 动态混入：可灵活的扩展类的功能
+    val t2 = new Teacher with SexTrait {
+      override var sex: String = "男"
+    }
+
+    //    调用混入trait的属性
+    println(t2.sex)
+
   }
 }
+
+
 

@@ -5,6 +5,7 @@ package com.atguigu.chapter6
 //产生的效果相当于继承或者混入(mixin)
 object Test15_TraitSelfType {
   def main(args: Array[String]): Unit = {
+
     val user = new MyUser("ff", 22)
     user.insert()
 
@@ -18,7 +19,6 @@ class User(var name: String, var age: Int)
 trait UserDao {
   //定义自身类型为user,表示继承UserDat特征的子类，必须有User的属性
   _: User =>
-
   //向数据库插入一条用户信息
   def insert(): Unit = {
     println("insert into db:" + this.name)

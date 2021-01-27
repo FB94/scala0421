@@ -27,5 +27,6 @@ trait Category extends Ball {
 
 //定义子类，继承两种特征
 class MyBall extends Category with Color {
-  override def describe(): String = super.describe()
+  override def describe(): String = "my ball is a " + super.describe()
 }
+
