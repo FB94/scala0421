@@ -2,7 +2,7 @@ package com.atguigu.chapter7
 
 object TestTuple {
   def main(args: Array[String]): Unit = {
-    //声明元组的方式
+    //声明元组的方式：（元素1，元素2，元素3）
     val tuple: (Int, String, Boolean) = (20, "bobo", true)
 
     //访问元组
@@ -19,7 +19,7 @@ object TestTuple {
     }
 
     //Map中的键值对其实就是元组，只不过元组的元素个数为2，称之为对偶
-    val map = Map("a" -> 1, "b" -> 2,"c"->3)
+    val map = Map("a" -> 1, "b" -> 2, "c" -> 3)
     val map1 = Map(("a" -> 1), ("b" -> 2))
     map.foreach(tuple => {
       println(tuple._1 + "=" + tuple._2)

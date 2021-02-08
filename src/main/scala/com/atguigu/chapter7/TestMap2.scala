@@ -10,7 +10,7 @@ object TestMap2 {
     val map = mutable.Map("a" -> 1, "b" -> 2, "c" -> 3)
     //增加数据
     map.+=("d" -> 4)
-    map.+(("e", 5))
+    map.+=(("e", 5))
     val map1 = map.+(("f", 6))
     println("map:", map)
     println("map1:", map1)
@@ -35,5 +35,4 @@ object TestMap2 {
     println(map)
 
   }
-
 }
